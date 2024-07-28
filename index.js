@@ -2,6 +2,7 @@ const hour = document.querySelector(".hour");
 const minute = document.querySelector(".minute");
 const second = document.querySelector(".second");
 
+//ceci est un commentaire
 function setDate() {
   const now = new Date();
 
